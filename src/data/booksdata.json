@@ -1,0 +1,81 @@
+{
+  "books": [
+    {
+      "id": 1,
+      "imageName": null,
+      "title": "1984",
+      "author": "George Orwell",
+      "year": 1949,
+      "goodreadsURL": "https://www.goodreads.com/book/show/40961427-1984",
+      "antonGrade": 4,
+      "willeGrade": 2,
+      "etienneGrade": 4
+    },
+    {
+      "id": 2,
+      "imageName": null,
+      "title": "12 Rules for Life",
+      "author": "Jordan Peterson",
+      "year": 2018,
+      "goodreadsURL": "https://www.goodreads.com/book/show/30257963-12-rules-for-life",
+      "antonGrade": 3,
+      "willeGrade": 2,
+      "etienneGrade": 2
+    },
+    {
+      "id": 3,
+      "imageName": null,
+      "title": "Shantaram",
+      "author": "Gregory David Roberts",
+      "year": 2003,
+      "goodreadsURL": "https://www.goodreads.com/book/show/33600.Shantaram",
+      "antonGrade": 2,
+      "willeGrade": 4,
+      "etienneGrade": 4
+    },
+    {
+      "id": 4,
+      "imageName": null,
+      "title": "Vi, Skuggorna",
+      "author": "Elinor Torp",
+      "year": 2019,
+      "goodreadsURL": "https://www.goodreads.com/book/show/48864627-vi-skuggorna",
+      "antonGrade": 4,
+      "willeGrade": 4,
+      "etienneGrade": 4
+    },
+    {
+      "id": 5,
+      "imageName": null,
+      "title": "Foundation",
+      "author": "Isaac Asimov",
+      "year": 1942,
+      "goodreadsURL": "https://www.goodreads.com/book/show/29579.Foundation",
+      "antonGrade": 1,
+      "willeGrade": 3,
+      "etienneGrade": 2
+    },
+    {
+      "id": 6,
+      "imageName": null,
+      "title": "Factfulness",
+      "author": "Hans Rosling",
+      "year": 2018,
+      "goodreadsURL": "https://www.goodreads.com/book/show/34890015-factfulness",
+      "antonGrade": 4,
+      "willeGrade": 3,
+      "etienneGrade": 3
+    },
+    {
+      "id": 7,
+      "imageName": null,
+      "title": "The Road",
+      "author": "Cormac McCarthy",
+      "year": 2006,
+      "goodreadsURL": "https://www.goodreads.com/book/show/6288.The_Road",
+      "antonGrade": null,
+      "willeGrade": null,
+      "etienneGrade": null
+    }
+  ]
+}

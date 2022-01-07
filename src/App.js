@@ -1,25 +1,22 @@
-import logo from './logo.svg';
-import './App.css';
+import booksJSON from './data/booksdata.json'
+import './App.css'
+import AllBooks from './components/AllBooks'
 
 function App() {
+  const allBooksData = booksJSON.books
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <div className='p-8 h-2/5'>
+        <div className=' text-neutral-300 text-center text-6xl  font-GreatVibes'>
+          Le Club de Lecture des Garçons Gentils
+        </div>
+        <div className='mt-2 italic text-teal-300 text-xl text-right font-GreatVibes'>
+          2022 Edition
+        </div>
+      </div>
+      <AllBooks allBooksData={allBooksData} />
     </div>
-  );
+  )
 }
 
-export default App;
+export default App
