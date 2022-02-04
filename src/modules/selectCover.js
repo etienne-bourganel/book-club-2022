@@ -5,6 +5,7 @@ import viSkuggorna from '../data/images/covers/vi-skuggorna.jpg'
 import foundation from '../data/images/covers/foundation.jpg'
 import factfulness from '../data/images/covers/factfulness.jpg'
 import theRoad from '../data/images/covers/theroad.jpg'
+import eufori from '../data/images/covers/eufori.jpg'
 import questionMark from '../data/images/covers/questionMark.png'
 
 const selectCover = (bookID) => {
@@ -23,6 +24,8 @@ const selectCover = (bookID) => {
       return factfulness
     case 7:
       return theRoad
+    case 8:
+      return eufori
     default:
       return questionMark
   }

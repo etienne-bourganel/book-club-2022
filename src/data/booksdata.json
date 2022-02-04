@@ -73,6 +73,17 @@
       "author": "Cormac McCarthy",
       "year": 2006,
       "goodreadsURL": "https://www.goodreads.com/book/show/6288.The_Road",
+      "antonGrade": 4,
+      "willeGrade": 4,
+      "etienneGrade": 5
+    },
+    {
+      "id": 8,
+      "imageName": null,
+      "title": "Eufori: En roman om Sylvia Plath",
+      "author": "Elin Cullhed",
+      "year": 2021,
+      "goodreadsURL": "https://www.goodreads.com/book/show/56527733-eufori",
       "antonGrade": null,
       "willeGrade": null,
       "etienneGrade": null
