@@ -84,6 +84,28 @@
       "author": "Elin Cullhed",
       "year": 2021,
       "goodreadsURL": "https://www.goodreads.com/book/show/56527733-eufori",
+      "antonGrade": 3,
+      "willeGrade": 4,
+      "etienneGrade": 4
+    },
+    {
+      "id": 9,
+      "imageName": null,
+      "title": "Homegoing",
+      "author": "Yaa Gyasi",
+      "year": 2016,
+      "goodreadsURL": "https://www.goodreads.com/book/show/27071490-homegoing",
+      "antonGrade": null,
+      "willeGrade": null,
+      "etienneGrade": null
+    },
+    {
+      "id": 10,
+      "imageName": null,
+      "title": null,
+      "author": null,
+      "year": null,
+      "goodreadsURL": null,
       "antonGrade": null,
       "willeGrade": null,
       "etienneGrade": null
